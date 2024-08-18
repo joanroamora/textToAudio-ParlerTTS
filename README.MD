@@ -66,7 +66,7 @@ The generated audio will be saved as `parler_tts_output.wav` in the same directo
 
 ---
 
-# Documentación de `generate_audio.py`
+# Documentación de `generate_audio.py` 🇨🇴
 
 ## Descripción General
 
@@ -121,7 +121,6 @@ Ejecuta el script utilizando Python:
 
 ```bash
 python generate_audio.py```
-
 Salida
 El audio generado se guardará como parler_tts_output.wav en el mismo directorio.
 
